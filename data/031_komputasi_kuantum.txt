@@ -1,0 +1,16 @@
+KOMPUTASI KUANTUM
+
+A. Konsep
+
+Memanfaatkan prinsip superposisi dan keterjeratan (entanglement) untuk menghitung jauh lebih cepat daripada komputer klasik di banyak tugas, seperti enkripsi dan simulasi kimia  .
+
+
+B. Dampak Masa Depan
+
+Dapat mengakselerasi riset fusi (optimasi plasma), AI, simulasi cuaca, dan lainnya  .
+
+Tantangan utama: koreksi kesalahan dan skala sistem cukup besar.
+
+
+
+---
