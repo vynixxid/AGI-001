@@ -1,0 +1,23 @@
+BIOTEKNOLOGI & MODIFIKASI DNA
+
+A. Teknik Inti
+
+CRISPR-Cas9: sistem penyuntingan genome presisi tinggi untuk mengubah gen dalam sel hidup.
+
+
+B. Aplikasi
+
+Penyembuhan penyakit genetik (ex. thalassemia, SMA).
+
+Peningkatan sifat manusia (daya tahan penyakit, kognisi).
+
+Peningkatan tanaman, hewan (ketahanan, produktivitas, nutrisi).
+
+
+C. Risiko & Etika
+
+Off-target effects: edit tak disengaja.
+
+Eugenika: penggunaan penyalahgunaan kombinasi genom pribadi.
+
+Kesenjangan sosial: akses selektif yang menimbulkan ketimpangan.
