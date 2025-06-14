@@ -1,0 +1,24 @@
+Sejarah & Bahaya AI
+
+Sejarah AI
+
+1950-an: Alan Turing, awal ide “thinking machines”  
+
+1960–70-an: Perkembangan simbolik (ELIZA, Shakey)
+
+1997: Deep Blue kalahkan Kasparov
+
+2010-an: Munculnya deep learning (ImageNet, AlphaGo)
+
+2022–sekarang: LLM & generative AI (ChatGPT, DALL‑E)
+
+
+Bahaya AI
+
+Keamanan & privasi: pengawasan massal, data misuse  
+
+Bias & diskriminasi: algoritma mewarisi ketidakadilan lama  
+
+Cybercrime: AI memperkuat hacking, phishing, malware otomatis  
+
+Eksistensial risk: hantu “paperclip maximizer”— AI dengan tujuan sempit bisa menghancurkan manusia  
