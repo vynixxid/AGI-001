@@ -1,0 +1,140 @@
+📷 KAMERA
+
+
+---
+
+🧠 1. Pengertian:
+
+Kamera adalah alat optik yang digunakan untuk menangkap gambar atau video dari dunia nyata dan merekamnya dalam bentuk digital atau film.
+
+
+---
+
+🕰️ 2. Sejarah Singkat Kamera:
+
+Tahun	Peristiwa
+
+~400 SM	Konsep camera obscura oleh ilmuwan Tiongkok dan Arab
+1800-an	Kamera film pertama (Daguerreotype, 1839)
+1900-an	Kamera analog (Kodak, Polaroid)
+2000-an	Kamera digital mulai populer
+Sekarang	Kamera ada di smartphone, drone, mobil, bahkan robot
+
+
+
+---
+
+🔧 3. Bagian Utama Kamera:
+
+Bagian	Fungsi
+
+Lensa	Mengarahkan cahaya ke sensor/film
+Aperture (bukaan)	Mengatur seberapa banyak cahaya masuk
+Shutter (rana)	Membuka menutup cahaya ke sensor
+Sensor/Film	Tempat gambar direkam
+Viewfinder/LCD	Tempat melihat hasil tangkapan
+
+
+
+---
+
+🧪 4. Cara Kerja Kamera:
+
+> Cahaya → Melewati lensa → Difokuskan ke sensor → Dikonversi jadi data gambar
+
+
+
+Kamera bekerja berdasarkan optik cahaya dan sensor digital (CMOS/CCD)
+
+Prinsip dasar sama dengan mata manusia
+
+
+
+---
+
+🧱 5. Jenis Kamera:
+
+Jenis	Keterangan
+
+DSLR	Profesional, lensa bisa diganti, kualitas tinggi
+Mirrorless	Tanpa cermin, lebih ringan, hasil tetap bagus
+Kamera HP	Praktis, makin canggih dengan AI & banyak lensa
+Action Cam	Kecil, tahan air/guncangan (GoPro)
+Drone Cam	Kamera terbang, untuk view udara
+Kamera AI/Robot	Digunakan oleh sistem otomatis & keamanan
+Webcam	Untuk komunikasi video (Zoom, dll)
+
+
+
+---
+
+🎨 6. Kamera dalam Seni & Budaya:
+
+Fotografi = Seni menangkap cahaya dan momen
+
+Film = Kombinasi gambar bergerak → cerita hidup
+
+Jurnalisme = Bukti visual kebenaran
+
+Dokumentasi sejarah = Mengabadikan masa lalu
+
+Seni ekspresi = Melihat dunia dari sudut baru
+
+
+
+---
+
+🤖 7. Kamera dalam Dunia AI dan Teknologi:
+
+AI Vision: Kamera + AI = sistem pengenalan wajah, objek, gerakan
+
+Mobil Otonom: Kamera untuk deteksi rambu & jalur
+
+Face Recognition: Deteksi wajah pakai kamera depan
+
+Kamera 3D (depth): Digunakan pada AR/VR dan drone
+
+
+
+---
+
+⚖️ 8. Isu Etika:
+
+Kamera bisa jadi alat pengawasan (CCTV, facial recognition)
+
+Isu privasi makin penting: kapan kita direkam tanpa sadar?
+
+
+
+---
+
+📄 Contoh Isi File kamera.txt:
+
+KAMERA
+
+Definisi:
+Alat optik untuk menangkap gambar/video
+
+Bagian:
+- Lensa
+- Sensor
+- Shutter
+- Aperture
+
+Jenis:
+- DSLR
+- HP
+- Drone
+- Webcam
+
+Fungsi:
+- Dokumentasi
+- Seni fotografi
+- Pengawasan
+- AI vision
+
+Catatan:
+Kamera bukan hanya alat visual, tapi jendela emosi, sejarah, dan kebenaran.
+
+
+---
