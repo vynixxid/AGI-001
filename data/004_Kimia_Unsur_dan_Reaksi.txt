@@ -11,3 +11,19 @@ Unsur: zat murni yang tidak dapat diuraikan menjadi zat lain. Contoh: Hidrogen (
 Sistem Periodik Unsur: pengelompokan unsur berdasarkan kemiripan sifat kimia dan fisik.
 
 Golongan dan Periode: vertikal (golongan) dan horizontal (periode) dalam tabel periodik menunjukkan tren elektronegativitas, jari-jari atom, energi ionisasi, dll.
+c. Jenis Reaksi Kimia
+
+Reaksi Sintesis: A + B → AB
+
+Reaksi Penguraian: AB → A + B
+
+Reaksi Pembakaran: CxHy + O₂ → CO₂ + H₂O
+
+Reaksi Asam-Basa: HCl + NaOH → NaCl + H₂O
+
+Reaksi Redoks: melibatkan transfer elektron (korosi, elektrolisis)
+
+
+d. Penerapan
+
+Bahan bakar, pupuk, farmasi, industri makanan, pengolahan limbah.
