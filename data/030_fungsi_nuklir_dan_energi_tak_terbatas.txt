@@ -1,0 +1,32 @@
+FUSI NUKLIR & ENERGI TAK TERBATAS
+
+A. Konsep Dasar
+
+Fusi nuklir menyatukan dua inti atom ringan (misalnya deuterium dan tritium), menghasilkan inti yang lebih berat + energy berlebih  .
+
+Efeknya: energi melimpah (1 galon air laut setara ~300 galon bensin)  .
+
+
+B. Status Riset Terkini
+
+National Ignition Facility (US): mencapai breakeven (energi keluaran > input laser) pada Des 2022, dan terus meningkat ke ~8.6 MJ output di 2025  .
+
+Tokamak & Stellarator:
+
+ITER (Prancis) menargetkan plasma 6× volume JT-60SA, beroperasi penuh 2033–2035  .
+
+JET (UK) memproduksi 69 MJ fusion dalam sekali uji  .
+
+Proxima Fusion (Jerman) mendapat €130M dukungan untuk Stellarator komersial 2031  .
+
+Type One Energy (AS) menyiapkan pilot 350 MW pada dekade 2030-an  .
+
+
+
+C. Keuntungan & Tantangan
+
+Keuntungan: tidak menimbulkan emisi karbon/limbah radioaktif jangka panjang, sangat aman (tidak ada risiko meltdown seperti fission)  .
+
+Tantangan: pengendalian plasma eksrem dan bahan tahan suhu tinggi diperlukan  .
+
+Proyeksi: komersialisasi kemungkinan terjadi 2030–2050  .
