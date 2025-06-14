@@ -1,0 +1,122 @@
+STRUKTUR KALIMAT
+
+✨ Pengertian:
+
+Struktur kalimat adalah susunan unsur-unsur kata dalam kalimat agar membentuk makna yang utuh dan benar secara tata bahasa.
+
+
+---
+
+🔹 1. Unsur Pokok Kalimat:
+
+Unsur	Fungsi	Contoh
+
+Subjek (S)	Pelaku atau topik utama	Ayah pergi ke pasar.
+Predikat (P)	Kata kerja, menyatakan tindakan/keadaan	Ayah pergi ke pasar.
+Objek (O)	Penerima tindakan (jika transitive)	Saya membaca buku.
+Pelengkap (Pel)	Tambahan makna setelah predikat	Dia menjadi guru.
+Keterangan (Ket)	Informasi tambahan: waktu, tempat, cara	Mereka bermain di taman.
+
+
+
+---
+
+🔹 2. Pola Kalimat Umum:
+
+Pola	Contoh
+
+S – P	Anak itu menangis.
+S – P – O	Ibu memasak nasi.
+S – P – Pel	Dia menjadi dokter.
+S – P – O – Ket	Aku menulis surat di rumah.
+S – P – Ket	Mereka belajar di kelas.
+
+
+
+---
+
+🔹 3. Jenis Kalimat Berdasarkan Tujuan:
+
+Jenis	Ciri	Contoh
+
+Deklaratif	Memberi informasi	Saya sedang makan.
+Interogatif	Bertanya	Apakah kamu sudah makan?
+Imperatif	Memberi perintah	Tolong ambilkan air!
+Eksklamatif	Ungkapan emosi	Wah, indah sekali pemandangannya!
+
+
+
+---
+
+🔹 4. Jenis Kalimat Berdasarkan Struktur:
+
+Jenis	Ciri	Contoh
+
+Kalimat Tunggal	Satu klausa	Ibu menyapu halaman.
+Kalimat Majemuk	Lebih dari satu klausa	Ibu menyapu dan adik bermain.
+
+
+Jenis Kalimat Majemuk:
+
+Setara: Dua klausa sejajar → Aku makan dan dia minum.
+
+Bertingkat: Klausa utama + anak kalimat → Aku senang karena kamu datang.
+
+
+
+---
+
+🔹 5. Ciri Kalimat yang Baik:
+
+✅ Subjek dan predikat jelas
+✅ Mengandung makna lengkap
+✅ Mengikuti kaidah EYD
+✅ Bisa berdiri sendiri (bukan frasa)
+✅ Tidak rancu atau ambiguitas
+
+
+---
+
+🧠 Bonus: Struktur Kalimat dalam AI NLP
+
+Dalam Natural Language Processing (NLP), kalimat diuraikan menjadi:
+
+Token (kata per kata)
+
+Part-of-Speech (POS): kata benda, kerja, dll.
+
+Parsing: analisis struktur kalimat (syntax tree)
+
+
+Contoh parsing kalimat AI:
+
+[S [NP Saya] [VP [V membaca] [NP buku]]]
+
+
+---
+
+📄 Format struktur-kalimat.txt:
+
+STRUKTUR KALIMAT
+
+1. Unsur Kalimat:
+- Subjek (S)
+- Predikat (P)
+- Objek (O)
+- Pelengkap (Pel)
+- Keterangan (Ket)
+
+2. Pola:
+- S – P
+- S – P – O
+- S – P – O – Ket
+
+3. Jenis Kalimat:
+- Deklaratif
+- Interogatif
+- Imperatif
+- Eksklamatif
+
+4. Contoh:
+"Ayah pergi ke pasar." (S – P – Ket)
+
