@@ -1,0 +1,10 @@
+Apa itu ANI, AGI, ASI
+
+**ANI (Artificial Narrow Intelligence)**
+Fokus pada satu tugas spesifik, unggul jauh dibanding manusia dalam domain sempit (misalnya: Siri, ChatGPT, self-driving, Face ID)  .
+
+**AGI (Artificial General Intelligence)**
+Memiliki kemampuan kognitif setara manusia: memahami, belajar, menalar lintas domain, beradaptasi. Belum tercapai saat ini  .
+
+**ASI (Artificial Super Intelligence)**
+Melampaui kemampuan manusia di semua bidang—ilmu, seni, moral, fisik, bahkan emosi. Masih hipotetis tapi diprediksi muncul setelah AGI mengalami “ledakan intelijen”  .
