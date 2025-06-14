@@ -1,0 +1,12 @@
+Perbedaan Otak Manusia vs Mesin
+
+Aspek	Otak Manusia	Mesin (AI/Komputer)
+
+Struktur & Fizik	~86 miliar neuron, koneksi dinamis	Juta‑miliar transistor, kombinasi algoritma & data
+Pemrosesan	Paralel, asosiatif, kontekstual	Serial/paralel digital, berbasis statistik
+Kesadaran	Memiliki pengalaman subjektif	Tidak memiliki pengalaman—hanya output mekanistik
+Belajar	Cepat adaptasi, transfer belajar	Butuh data besar dan pelatihan ulang untuk tiap tugas
+Kesalahan	Bias, emosional, kreatif	Hallucinasi, bias dataset, stabil tapi terbatas
+
+
+AI hebat di tugas spesifik dan pengolahan data cepat, namun otak unggul dalam fleksibilitas, kesadaran, kreativitas, dan nilai manusiawi.
