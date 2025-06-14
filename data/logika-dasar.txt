@@ -1,0 +1,147 @@
+LOGIKA DASAR – FONDASI BERPIKIR & KOMPUTASI
+
+Logika dasar adalah ilmu tentang cara berpikir benar. Digunakan dalam:
+
+Matematika
+
+Filsafat
+
+Pemrograman
+
+AI & robotika
+
+Debat & analisis masalah
+
+
+
+---
+
+🔹 1. Unsur-Unsurnya
+
+Unsur	Penjelasan
+
+Pernyataan (Proposisi)	Kalimat yang bisa dinilai benar atau salah.
+Contoh: “Langit biru” → BENAR	
+Nilai Kebenaran	Dua nilai utama:
+TRUE (T) / FALSE (F)	
+Operasi Logika	AND (∧), OR (∨), NOT (¬), IF-THEN (→), IFF (↔)
+
+
+
+---
+
+🔹 2. Operator Logika
+
+Operator	Simbol	Nama	Contoh	Hasil
+
+AND	∧	Konjungsi	A ∧ B	Benar jika A dan B benar
+OR	∨	Disjungsi	A ∨ B	Benar jika salah satu benar
+NOT	¬	Negasi	¬A	Membalik nilai A
+IF-THEN	→	Implikasi	A → B	Salah hanya jika A benar, B salah
+IFF	↔	Biimplikasi	A ↔ B	Benar jika A dan B punya nilai sama
+
+
+
+---
+
+🔹 3. Tabel Kebenaran (Truth Table)
+
+Contoh:
+A ∧ B
+
+A	B	A ∧ B
+
+T	T	T
+T	F	F
+F	T	F
+F	F	F
+
+
+Contoh:
+A → B
+
+A	B	A → B
+
+T	T	T
+T	F	F
+F	T	T
+F	F	T
+
+
+
+---
+
+🔹 4. Penalaran Logis
+
+Deduktif:
+Dari umum ke khusus.
+Contoh:
+Semua manusia mati.
+Socrates manusia.
+→ Socrates mati. ✔️
+
+Induktif:
+Dari contoh khusus ke kesimpulan umum.
+Contoh:
+Burung A bisa terbang.
+Burung B bisa terbang.
+→ Semua burung bisa terbang (✖ salah, karena burung unta tidak bisa).
+
+
+
+---
+
+🔹 5. Kesalahan Logika (Fallacy)
+
+Jenis	Contoh	Kesalahan
+
+Ad hominem	“Kamu bodoh, jadi pendapatmu salah.”	Menyerang orang, bukan argumennya
+Strawman	“Kamu nolak sensor, berarti kamu dukung kejahatan.”	Memutar argumen
+Circular	“Kenapa itu benar? Karena itu benar.”	Mengulang tanpa bukti
+
+
+
+---
+
+🔹 6. Aplikasi Logika di Dunia Nyata
+
+✅ Coding & AI: logika IF, AND, OR jadi dasar algoritma
+
+✅ Debat & Analisis: mengevaluasi argumen
+
+✅ Sains: membentuk dan menguji hipotesis
+
+✅ Etika & Hukum: menyusun hukum yang rasional
+
+
+
+---
+
+📦 BONUS: Format File logika-dasar.txt
+
+Jika kamu ingin isi file .txt, bisa begini:
+
+LOGIKA DASAR
+------------
+Pernyataan: "Hari hujan" → TRUE
+Operator:
+- AND (∧): A ∧ B
+- OR (∨): A ∨ B
+- NOT (¬): ¬A
+- IF THEN (→): A → B
+
+Contoh logika:
+Jika Hujan → Bawa payung
+Jika Tidak Hujan → Tidak perlu payung
+
+
+---
+
+Kalau kamu mau, aku bisa:
+
+Buatkan file .txt siap download
+
+Tambahkan logika dalam bentuk diagram visual
+
+Hubungkan ini ke coding Python atau AI
+Mau lanjut ke bagian mana?
