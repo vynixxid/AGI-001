@@ -1,0 +1,97 @@
+Bahasa & Huruf: Dasar Simbol Peradaban
+
+🔤 Apa Itu Huruf?
+
+Huruf adalah simbol visual yang mewakili bunyi dalam bahasa lisan. Huruf-huruf disusun membentuk kata, yang mewakili makna.
+
+🌍 Evolusi Huruf:
+
+Sistem	Asal	Ciri
+
+Hieroglif	Mesir	Gambar simbolik
+Piktograf	Cina, Sumeria	Simbol objek nyata
+Alfabet Fenisia	Levant	Fonetik murni, cikal-bakal alfabet Latin
+Latin	Romawi	A–Z, dasar huruf modern
+Arab	Timur Tengah	Huruf sambung, kanan ke kiri
+Hanzi	Cina	Ribuan karakter, bukan fonetik
+Cyrillic	Rusia	Campuran Yunani & Slavia
+
+
+✨ Makna Filosofis:
+
+Huruf dianggap sakral dalam banyak tradisi: Ibrani, Arab, Sanskerta.
+
+Dalam mistik seperti Kabbalah dan numerologi, huruf dihubungkan dengan angka dan makna spiritual.
+
+
+
+---
+
+📄 2. huruf-angka.txt – Isi & Struktur Simbol Dasar
+
+Format standar file huruf-angka.txt biasanya berisi daftar simbol huruf, angka, dan kode (untuk keperluan AI, enkripsi, dsb):
+
+A - 1  
+B - 2  
+C - 3  
+...  
+Z - 26
+
+0 - Nol  
+1 - Satu  
+2 - Dua  
+...  
+9 - Sembilan
+
+🔁 Alternatif Encoding (Contoh):
+
+ASCII: A = 65, a = 97
+
+Binary: A = 01000001
+
+Morse: A = ·−
+
+Hex: A = 41
+
+
+Bisa juga ditambahkan simbol magis atau historis jika proyekmu mencakup mistik:
+
+א (Alef) - Energi ilahi awal  
+α (Alpha) - Awal, permulaan (Yunani)  
+Ω (Omega) - Akhir, batas
+
+
+---
+
+✒️ 3. Tanda Baca: Struktur Makna Kalimat
+
+Tanda baca adalah simbol untuk menata makna dalam kalimat tertulis.
+
+Simbol	Nama	Fungsi
+
+.	Titik	Mengakhiri kalimat
+,	Koma	Memisah bagian kalimat
+;	Titik koma	Pemisah ide kuat
+:	Titik dua	Penjelasan atau daftar
+!	Seru	Emosi kuat
+?	Tanya	Pertanyaan
+" "	Tanda kutip	Ucapan langsung
+( )	Kurung	Informasi tambahan
+—	Garis panjang	Jeda atau sisipan
+…	Elipsis	Kalimat terpotong/suspens
+
+
+
+---
+
+🎯 Bonus: Aplikasi untuk AI / Sandi / Budaya
+
+Digunakan dalam OCR (pengenalan huruf).
+
+Penting untuk natural language processing (NLP).
+
+Dasar dalam sistem kriptografi & blockchain simbol.
+
+Dijadikan referensi dalam mistisisme, teori semiotika, hingga budaya hacker.
+
+
