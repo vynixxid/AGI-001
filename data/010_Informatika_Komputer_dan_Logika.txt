@@ -1,0 +1,23 @@
+8. Informatika: Komputer dan Logika
+
+a. Komputer
+
+Pengertian hardware (CPU, RAM, harddisk), software (sistem operasi, aplikasi).
+
+Sistem operasi dasar (Windows, Linux).
+
+Internet dan keamanan data.
+
+
+b. Logika Informatika
+
+Logika dasar: AND, OR, NOT.
+
+Algoritma dan flowchart.
+
+Pemrograman dasar (misalnya Python atau Scratch).
+
+
+c. Penerapan
+
+Automasi tugas, pembuatan situs web, game, analisis data.
