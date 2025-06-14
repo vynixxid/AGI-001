@@ -1,0 +1,23 @@
+UPLOAD OTAK KE MESIN (Mind Uploading)
+
+A. Konsep
+
+Digitalisasi pikiran manusia—kesadaran dan ingatan—ke dalam media komputasi.
+
+B. Jalur Kemungkinan
+
+1. Scan otak presisi tinggi (struktur neuron & sinaps).
+
+
+2. Model simulasi: software mereplika fungsi otak.
+
+
+3. Run di perangkat: komputer super atau AI khusus.
+
+
+
+C. Tantangan
+
+Teknologi pindaian resolusi synaps sangat tinggi saat ini belum ada.
+
+Hard problem: kesadaran subjektif (qualia) apakah muncul dalam simulasi? Masih diperdebatkan filosofis & ilmiah.
