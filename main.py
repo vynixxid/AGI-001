@@ -1,13 +1,13 @@
-from core import think
-from memory import load_memory
+from core import AGI
 
 if __name__ == "__main__":
-    memory = load_memory()
+    agi = AGI()
+
     while True:
-        try:
-            user_input = input("Kamu: ")
-            response = think(user_input, memory)
-            print("AGI:", response)
-        except KeyboardInterrupt:
-            print("\n[!] Keluar...")
+        user_input = input("👤 Kamu: ")
+        if user_input.lower() in ["exit", "keluar"]:
+            print("👶 BabyAGI: Sampai jumpa!")
             break
+
+        response = agi.respond(user_input)
+        print("👶 BabyAGI:", response)
