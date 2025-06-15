@@ -1,13 +1,9 @@
-import os
+class Memory:
+    def __init__(self):
+        self.history = []
 
-MEMORY_FILE = "memory.txt"
+    def store(self, speaker, text):
+        self.history.append({"speaker": speaker, "text": text})
 
-def load_memory():
-    if os.path.exists(MEMORY_FILE):
-        with open(MEMORY_FILE, "r") as f:
-            return f.read().splitlines()
-    return []
-
-def save_memory(memory):
-    with open(MEMORY_FILE, "w") as f:
-        f.write("\n".join(memory))
+    def recall(self):
+        return self.history[-5:]  # Ambil 5 obrolan terakhir
